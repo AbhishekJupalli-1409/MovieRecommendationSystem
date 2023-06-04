@@ -8,7 +8,7 @@
 
 ```
 
-### About the DataSet
+### About the Dataset
 https://www.kaggle.com/rounakbanik/movie-recommender-systems/data
 
 The dataset consists of  metadata for all 45,000 movies listed in the Full MovieLens Dataset. The dataset consists of movies released on or before July 2017. Data points include cast, crew, plot keywords, budget, revenue, posters, release dates, languages, production companies, countries, TMDB vote counts and vote averages.
@@ -59,3 +59,11 @@ This dataset consists of the following files:
 
 6.  Deployment using Streamlit where we have to select or type the movie accordingly to render output on screen
 
+# To see the interface of the app 
+
+#### Like how it looked like in laptop and mobile resolutions
+
+```diff
++ Go to Collaborative based recommendation Deployment video file
+ ```
+[ Click On this to the see interface of the app recorded in mp4 files ](https://github.com/komalreddy3/MovieRecommendationSystem/tree/01440a3dd71e8838f01e608c32cfad53c3551e55/Collaborative%20based%20Recommendation%20Deployment%20Video/Laptop)
