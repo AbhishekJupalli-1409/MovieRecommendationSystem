@@ -27,10 +27,10 @@ def add_bg_from_local(image_file):
     unsafe_allow_html=True
     )
 add_bg_from_local('backgroundj1.jpg') 
-#image = Image.open('C:\\Users\\komal\\Downloads\\MRS1\\backgroundj1.jpg')
+#image = Image.open('backgroundj1.jpg')
 #st.image(image)
 
-model_knn = load(open('C:\\Users\\komal\\Downloads\\Movie_R1\\knn_model.pkl', 'rb'))
+model_knn = load(open('Movie_R1/knn_model.pkl', 'rb'))
 
 df = load(open('C:\\Users\\komal\\Downloads\\Movie_R1\\collaborative_cosine_similarity.pkl', 'rb'))
 df = pd.DataFrame(df)
