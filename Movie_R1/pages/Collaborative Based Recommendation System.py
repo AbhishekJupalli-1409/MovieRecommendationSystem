@@ -32,7 +32,7 @@ add_bg_from_local('backgroundj1.jpg')
 
 model_knn = load(open('Movie_R1/knn_model.pkl', 'rb'))
 
-df = load(open('C:\\Users\\komal\\Downloads\\Movie_R1\\collaborative_cosine_similarity.pkl', 'rb'))
+df = load(open('Movie_R1/collaborative_cosine_similarity.pkl', 'rb'))
 df = pd.DataFrame(df)
 
 #st.subheader('Top 5 Movies: ')
