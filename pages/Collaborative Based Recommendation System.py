@@ -35,9 +35,6 @@ model_knn = load(open('knn_model.pkl', 'rb'))
 df = load(open('collaborative_cosine_similarity.pkl', 'rb'))
 df = pd.DataFrame(df)
 
-#st.subheader('Top 5 Movies: ')
-st.markdown(f'<h1 style="color:#ffffff;font-size:24px;background-color:#000000">{"Top 5 Movies: "}</h1>', unsafe_allow_html=True)
-st.text("")
 st.markdown(f'<h1 style="color:#ffffff;font-size:24px;background-color:#000000">{"Type or select a movie from the dropdown "}</h1>', unsafe_allow_html=True)
 #movie_name = st.selectbox("Type or select a movie from the dropdown",df.index.values)
 movie_name = st.selectbox(" ",
