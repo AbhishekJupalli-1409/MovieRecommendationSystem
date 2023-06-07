@@ -61,9 +61,9 @@ This dataset consists of the following files:
 
 # To see the interface of the app 
 
-#### Like how it looked like in laptop and mobile resolutions
+#### Like how it looked like on laptop and mobile resolutions
 
 ```diff
-+ Go to Collaborative based recommendation Deployment video file
++ Go to Collaborative Final Images folder
  ```
-[ Click On this to the see interface of the app recorded in mp4 files ](https://github.com/komalreddy3/MovieRecommendationSystem/tree/28c752a797dd0fd13fdff0e8c63e05a9b1e076b4/Collaborative%20based%20Recommendation%20Deployment%20Video)
+[Click on this to see the pics of interface on laptop and mobile](https://github.com/komalreddy3/MovieRecommendationSystem/tree/0ea71f0e3baa489a37bd55bf82d464d699d4577b/Colloborative%20Final%20Images)
