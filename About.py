@@ -12,7 +12,7 @@ def add_bg_from_url():
          f"""
          <style>
          .stApp {{
-             background-image: url("https://png.pngtree.com/png-vector/20190816/ourmid/pngtree-film-logo-design-template-vector-isolated-illustration-png-image_1693431.jpg");
+             background-image: url("https://img.freepik.com/free-vector/movie-film-strip-blue-background_1017-33458.jpg");
              background-attachment: fixed;
              background-position: center;
              background-repeat:no-repeat;
@@ -33,7 +33,7 @@ def add_logo():
         """
         <style>
             [data-testid="stSidebarNav"] {
-                background-image: url(https://img.uxwing.com/wp-content/themes/uxwing/download/video-photography-multimedia/movie-theater-icon.svg);
+                background-image: url(https://png.pngtree.com/png-vector/20190816/ourmid/pngtree-film-logo-design-template-vector-isolated-illustration-png-image_1693431.jpg);
                 background-repeat: no-repeat;
                 padding-top: 120px;
                 background-position: 20px 20px;
